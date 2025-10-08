@@ -1,0 +1,13 @@
+{
+    "api_key": "",
+    "model_name": "openai/gpt-oss-120b",
+    "temperature": 0.0,
+    "max_response_tokens": 2048,
+    "embedding_model": "BAAI/bge-large-en-v1.5",
+    "num_threads": 32,
+    "visualization": {
+        "sphere_scale_factor": 50.0,
+        "port": 8050,
+        "slider_steps": 100
+    }
+}
